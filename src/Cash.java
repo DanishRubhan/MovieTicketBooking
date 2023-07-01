@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class Cash extends  Payment{
 
-
     public Cash(double price) {
         super(price);
     }
